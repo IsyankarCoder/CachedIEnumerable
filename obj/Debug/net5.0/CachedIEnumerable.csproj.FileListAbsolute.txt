@@ -1,0 +1,16 @@
+D:\VsProject\CachedIEnumerable\bin\Debug\net5.0\CachedIEnumerable.exe
+D:\VsProject\CachedIEnumerable\bin\Debug\net5.0\CachedIEnumerable.deps.json
+D:\VsProject\CachedIEnumerable\bin\Debug\net5.0\CachedIEnumerable.runtimeconfig.json
+D:\VsProject\CachedIEnumerable\bin\Debug\net5.0\CachedIEnumerable.runtimeconfig.dev.json
+D:\VsProject\CachedIEnumerable\bin\Debug\net5.0\CachedIEnumerable.dll
+D:\VsProject\CachedIEnumerable\bin\Debug\net5.0\ref\CachedIEnumerable.dll
+D:\VsProject\CachedIEnumerable\bin\Debug\net5.0\CachedIEnumerable.pdb
+D:\VsProject\CachedIEnumerable\obj\Debug\net5.0\CachedIEnumerable.csprojAssemblyReference.cache
+D:\VsProject\CachedIEnumerable\obj\Debug\net5.0\CachedIEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+D:\VsProject\CachedIEnumerable\obj\Debug\net5.0\CachedIEnumerable.AssemblyInfoInputs.cache
+D:\VsProject\CachedIEnumerable\obj\Debug\net5.0\CachedIEnumerable.AssemblyInfo.cs
+D:\VsProject\CachedIEnumerable\obj\Debug\net5.0\CachedIEnumerable.csproj.CoreCompileInputs.cache
+D:\VsProject\CachedIEnumerable\obj\Debug\net5.0\CachedIEnumerable.dll
+D:\VsProject\CachedIEnumerable\obj\Debug\net5.0\ref\CachedIEnumerable.dll
+D:\VsProject\CachedIEnumerable\obj\Debug\net5.0\CachedIEnumerable.pdb
+D:\VsProject\CachedIEnumerable\obj\Debug\net5.0\CachedIEnumerable.genruntimeconfig.cache
